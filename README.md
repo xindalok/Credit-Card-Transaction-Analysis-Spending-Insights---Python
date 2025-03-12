@@ -4,7 +4,7 @@
 - [Project Objective](#project-objective)
 - [Original Dataset](#original-dataset)
 - [Project Overview](#project-overview)
-   -[What needs to be done](#what-needs-to-be-done)
+   - [What needs to be done](#what-needs-to-be-done)
 - [Tools Utilized](#tools-utilized)
 
 
