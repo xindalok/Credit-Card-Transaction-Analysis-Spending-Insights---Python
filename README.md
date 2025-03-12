@@ -24,4 +24,4 @@ The project will focus on:
 - Investigating regional spending variations and targeting strategies based on geographic trends.
 
 ## **Tools Utilized**
-- PostgreSQL
+- Python (Jupyter Notebook)
