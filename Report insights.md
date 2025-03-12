@@ -1,8 +1,8 @@
 # **Credit Card Spending & Customer Behavior Analysis**
 
-## **1. Relationship Between Customer Behavior and FICO Score**
+## Relationship Between Customer Behavior and FICO Score
 
-### **a. Do Customers with Higher FICO Scores Spend More?**
+### a. Customer spending in relation to Higher FICO Scores
 - **Insight:** Customers with higher FICO scores do not spend more on average. In fact, customers with the lowest FICO scores have the highest average spending.  
 - **Possible Explanation:** Lower FICO score customers may rely more on credit for everyday expenses or large purchases, whereas higher FICO score individuals may manage their credit more conservatively.  
 - **Actionable Insight:** Financial institutions should analyze spending patterns of low-FICO customers to assess potential risks of financial distress. Personalized credit limit adjustments and spending management tools could help maintain financial stability for low-FICO customers.
@@ -15,7 +15,7 @@
 
 ---
 
-### **d. State-Level Spending Insights**
+### State-Level Spending Insights
 | **State**           | **Avg Monthly Spend Per Customer** | **Number of Customers** |
 |---------------------|-----------------------------------|-------------------------|
 | **California**      | $845,714.98                        | 238                     |
@@ -30,14 +30,14 @@
 
 ---
 
-### **e. Relationship Between Income and Monthly Spending**
+###  Relationship Between Income and Monthly Spending
 - **Insight:** There is little correlation between yearly income and monthly spending, even when segmented by age group.  
 - **Possible Explanation:** Spending may be driven by lifestyle choices rather than income levels. High-income individuals might prefer using alternative payment methods (e.g., bank transfers or investment accounts) instead of credit cards.  
 - **Actionable Insight:** The bank should shift focus from income-based segmentation to analyzing **spending categories** (e.g., luxury vs. essential purchases) to offer more tailored credit card benefits.
 
 ---
 
-## **2. Credit Card Transaction Trends**
+## 2. Credit Card Transaction Trends
 
 ### **a. Transaction Method Preferences**
 | **Transaction Type**   | **Total Spending (in currency units)** |
