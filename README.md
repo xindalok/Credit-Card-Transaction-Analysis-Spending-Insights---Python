@@ -3,8 +3,7 @@
 ## **Table of Contents**
 - [Project Objective](#project-objective)
 - [Original Dataset](#original-dataset)
-- [Data Preprocessing](#data-preprocessing)
-- [Processed Dataset](#processed-dataset)
+- [Project Overview](#project-overview)
 - [Tools Utilized](#tools-utilized)
 
 
@@ -23,8 +22,10 @@ By analyzing key spending metrics and trends over time, this report aims to prov
 The project will focus on:
 - Identifying spending trends across different customer segments, including age groups and FICO scores.
 - Exploring relationships between FICO scores and spending behaviors.
-- Analyzing the frequency of transactions and transaction errors, specifically “Insufficient Balance” errors.
+- Analyzing the frequency of transactions and transaction errors
 - Investigating regional spending variations and targeting strategies based on geographic trends.
 
 ## **Tools Utilized**
 - Python (Jupyter Notebook)
+  - Pandas
+  - Matplotlib, Seaborn
