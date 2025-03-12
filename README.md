@@ -13,6 +13,11 @@
 ## **Project Objective**
 To analyze and understand credit card spending behavior, with a focus on FICO scores, transaction types, and regional spending patterns, in order to enhance customer engagement and offer targeted strategies.
 
+## **[Original Dataset](https://link-to-your-dataset.com)**
+[Credit card transactions]([https://link-to-credit-card-transactions.com](https://drive.google.com/file/d/1A3XLtF0ZgbmYIVWJybYGIuL8gC7ErbSk/view?usp=drive_link))  
+[Users](https://link-to-users-data.com)
+
+
 ## **Project Overview**
 By analyzing key spending metrics and trends over time, this report aims to provide actionable insights into customer behavior, helping the organization optimize credit card offerings and improve customer engagement. The objective is to use data-driven insights to support decision-making and enhance the effectiveness of credit card programs.
 
