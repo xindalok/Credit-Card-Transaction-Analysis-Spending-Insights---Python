@@ -14,7 +14,7 @@
 ## **Project Objective**
 To analyze and understand credit card spending behavior, with a focus on FICO scores, transaction types, and regional spending patterns, in order to enhance customer engagement and offer targeted strategies.
 
-## **[Original Dataset]**
+## ** Original Dataset **
 [Credit card transactions](https://drive.google.com/file/d/1A3XLtF0ZgbmYIVWJybYGIuL8gC7ErbSk/view?usp=drive_link) <br>
 [Users](https://github.com/xindalok/Credit-Card-Transaction-Analysis-Spending-Insights---Python/blob/91a9247f7cf0e09981b682c121b2d34b9d0911c2/datasets/users.csv)
 
