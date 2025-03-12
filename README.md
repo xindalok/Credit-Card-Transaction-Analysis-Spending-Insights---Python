@@ -3,11 +3,8 @@
 ## **Table of Contents**
 - [Project Objective](#project-objective)
 - [Original Dataset](#original-dataset)
-- [Issues with Dataset](#issues-with-dataset)
 - [Data Preprocessing](#data-preprocessing)
 - [Processed Dataset](#processed-dataset)
-- [Data](#data)
-- [Dataset](#dataset)
 - [Tools Utilized](#tools-utilized)
 
 
