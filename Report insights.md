@@ -1,6 +1,6 @@
-# **Credit Card Spending & Customer Behavior Analysis**
+## How FICO scores and spending patterns can boost credit card engagement
 
-## Relationship Between Customer Behavior and FICO Score
+### Relationship Between Customer Behavior and FICO Score
 
 ### a. Customer spending in relation to Higher FICO Scores
 - **Insight:** Customers with higher FICO scores do not spend more on average. In fact, customers with the lowest FICO scores have the highest average spending.  
