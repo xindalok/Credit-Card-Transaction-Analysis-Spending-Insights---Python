@@ -1,14 +1,15 @@
 # **Credit Card Spending Report**
 
 ## **Table of Contents**
-1. [Project Objective](#project-objective)
-2. [Original Dataset](#original-dataset)
-3. [Issues with Dataset](#issues-with-dataset)
-4. [Data Preprocessing](#data-preprocessing)
-5. [Processed Dataset](#processed-dataset)
-6. [Data](#data)
-7. [Dataset](#dataset)
-8. [Tools Utilized](#tools-utilized)
+- [Project Objective](#project-objective)
+- [Original Dataset](#original-dataset)
+- [Issues with Dataset](#issues-with-dataset)
+- [Data Preprocessing](#data-preprocessing)
+- [Processed Dataset](#processed-dataset)
+- [Data](#data)
+- [Dataset](#dataset)
+- [Tools Utilized](#tools-utilized)
+
 
 ## **Project Objective**
 To analyze and understand credit card spending behavior, with a focus on FICO scores, transaction types, and regional spending patterns, in order to enhance customer engagement and offer targeted strategies.
